@@ -1,0 +1,13 @@
+# purpledrank
+
+The next iteration of Drink-JS, a server for the CSH drink machines.
+
+
+## Thoughts
+
+
+- tini connect/command middleware
+	- exposes an api for higher level protocols to sit on
+
+- JSON interface
+- Sunday protocol
