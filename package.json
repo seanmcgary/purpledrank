@@ -1,0 +1,26 @@
+{
+  "name": "purpledrank",
+  "version": "0.0.1",
+  "author": "Sean McGary <sean.mcgary@gmail.com>",
+  "description": "CSH Drink Server",
+  "contributors": [ 
+    {
+      "name": "Sean McGary",
+      "email": "sean.mcgary@gmail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanmcgary/purpledrank.git"
+  },
+  "dependencies" : {
+    "colors": "*",
+    "underscore": "*",
+    "async": "*"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.8"
+  }
+}
+
