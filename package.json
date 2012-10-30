@@ -16,7 +16,8 @@
   "dependencies" : {
     "colors": "*",
     "underscore": "*",
-    "async": "*"
+    "async": "*",
+    "ldap": "*"
   },
   "license": "MIT",
   "engines": {
